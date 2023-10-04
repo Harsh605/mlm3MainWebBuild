@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c602e05.css",
-    "main.js": "/static/js/main.3e36951f.js",
+    "main.js": "/static/js/main.8ac70b0d.js",
     "static/js/787.41a206eb.chunk.js": "/static/js/787.41a206eb.chunk.js",
     "static/media/video_gif_2.gif": "/static/media/video_gif_2.176ad3f8e8533b533317.gif",
     "static/media/TA_Trading.pdf": "/static/media/TA_Trading.a225d7e6cdb2655a85a6.pdf",
@@ -9,11 +9,11 @@
     "static/media/OkDreamer25.jpg": "/static/media/OkDreamer25.5bb0c2a1790f3c016fda.jpg",
     "index.html": "/index.html",
     "main.3c602e05.css.map": "/static/css/main.3c602e05.css.map",
-    "main.3e36951f.js.map": "/static/js/main.3e36951f.js.map",
+    "main.8ac70b0d.js.map": "/static/js/main.8ac70b0d.js.map",
     "787.41a206eb.chunk.js.map": "/static/js/787.41a206eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c602e05.css",
-    "static/js/main.3e36951f.js"
+    "static/js/main.8ac70b0d.js"
   ]
 }
